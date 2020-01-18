@@ -1,7 +1,7 @@
 # Jsoup
 Jsoup web scrapping on android.
 
-Updated the components.
+Updated wit the latest components as of january 2020.
 
 From here : "https://github.com/princessdharmy/Jsoup"
 
